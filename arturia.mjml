@@ -4,7 +4,7 @@
     <mj-section padding="30px 0" background-color="#232323">
       <mj-column>
         <mj-image width="200px" align="center" src="https://medias.arturia.net/images/logo-full.svg" href="https://www.arturia.com" alt="Arturia Logo"></mj-image>
-        <mj-text align="center" color="#FFFFFF" font-size="20px" font-weight="bold" padding-top="15px">Arturia News | 12/01/2025</mj-text>
+        <mj-text align="center" color="#FFFFFF" font-size="20px" font-weight="bold" padding-top="15px">Arturia News | Feb 22, 2025</mj-text>
       </mj-column>
     </mj-section>
 
@@ -24,7 +24,7 @@
     <mj-section background-color="#F0F5FF" padding="40px 0">
       <mj-column width="100%">
         <mj-text font-size="22px" color="#333333" font-weight="bold" align="center">Spotlight: KeyLab Essential 88 MKIII</mj-text>
-        <mj-image src="https://medias.arturia.net/cdn-cgi/image/quality=80/images/products/keylab-essential-88-mk3/banner-image.png" href="https://www.arturia.com/products/hybrid-synths/keylab-essential-88-mk3/overview" alt="KeyLab Essential 88 MKIII" padding="20px 0" width="100%"></mj-image>
+        <mj-image src="https://medias.arturia.net/cdn-cgi/image/quality=80/images/products/keylab-essential-88-mk3/banner-image.png" href="https://www.arturia.com/products/hybrid-synths/keylab-essential-88-mk3/overview" alt="KeyLab Essential 88 MKIII" padding="20px 0" width="150%"></mj-image>
         <mj-text font-size="16px" color="#555555" line-height="1.6" padding-bottom="25px" align="center">
           The ultimate 88-key MIDI controller designed for musicians seeking precision, ease of use, and seamless integration with your DAW and virtual instruments.
         </mj-text>
@@ -36,7 +36,7 @@
     <mj-section background-color="#FFFFFF" padding="40px 0">
       <mj-column width="100%">
         <mj-text font-size="22px" color="#333333" font-weight="bold" align="center">New Arrival: MiniFreak</mj-text>
-        <mj-image src="https://medias.arturia.net/cdn-cgi/image/quality=80/images/products/minifreak/banner-image.png" href="https://www.arturia.com/products/software-instruments/minifreak-v/overview" alt="MiniFreak" padding="20px 0" width="100%"></mj-image>
+        <mj-image src="https://medias.arturia.net/cdn-cgi/image/quality=80/images/products/minifreak/banner-image.png" href="https://www.arturia.com/products/software-instruments/minifreak-v/overview" alt="MiniFreak" padding="20px 0" width="150%"></mj-image>
         <mj-text font-size="16px" color="#555555" line-height="1.6" padding-bottom="25px" align="center">
           MiniFreak is a versatile hybrid synthesizer, blending analog warmth with digital complexity. Perfect for sound designers looking for new creative possibilities.
         </mj-text>
@@ -48,7 +48,7 @@
     <mj-section padding="20px 0">
       <mj-column width="100%">
         <mj-text font-size="20px" color="#333333" font-weight="bold" align="center" padding-bottom="15px">Watch the MiniFreak Demo</mj-text>
-        <mj-image src="https://img.youtube.com/vi/JizjgCAHYFQ/0.jpg" href="https://www.youtube.com/watch?v=JizjgCAHYFQ" alt="MiniFreak Demo" padding="20px 0" width="100%" border-radius="8px"></mj-image>
+        <mj-image src="https://img.youtube.com/vi/JizjgCAHYFQ/0.jpg" href="https://www.youtube.com/watch?v=JizjgCAHYFQ" alt="MiniFreak Demo" padding="20px 0" width="200%" border-radius="8px"></mj-image>
         <mj-text font-size="16px" color="#555555" line-height="1.6" padding-bottom="20px" align="center">
           See MiniFreak in action and dive into its incredible hybrid sound engine. Watch our demo video featuring exclusive sound explorations.
         </mj-text>
@@ -59,10 +59,10 @@
     <mj-section background-color="#232323" padding="30px 0">
       <mj-column width="100%">
         <mj-social font-size="16px" color="#FFFFFF" icon-size="30px" mode="horizontal" align="center">
-          <mj-social-element href="http://www.facebook.com/arturia2" background-color="#3b5998">Facebook</mj-social-element>
-          <mj-social-element href="http://www.youtube.com/arturiaweb" background-color="#FF0000">YouTube</mj-social-element>
-          <mj-social-element href="http://soundcloud.com/arturia-official" background-color="#ff7700">SoundCloud</mj-social-element>
-          <mj-social-element href="http://twitter.com/arturiaofficial" background-color="#1da1f2">Twitter</mj-social-element>
+          <mj-social-element name="facebook" href="http://www.facebook.com/arturia2" background-color="#3b5998">Facebook</mj-social-element>
+          <mj-social-element name="youtube" href="http://www.youtube.com/arturiaweb" background-color="#FF0000">YouTube</mj-social-element>
+          <mj-social-element name="soundcloud" href="http://soundcloud.com/arturia-official" background-color="#ff7700">SoundCloud</mj-social-element>
+          <mj-social-element name="twitter" href="http://twitter.com/arturiaofficial" background-color="#1da1f2">Twitter</mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
@@ -80,3 +80,12 @@
     </mj-section>
   </mj-body>
 </mjml>
+
+
+
+
+ <mj-social align="center" color="#ffffff" font-size="20px" mode="horizontal">
+              <mj-social-element name="facebook" href="https://www.facebook.com/TimHortons" />
+              <mj-social-element name="twitter" href="https://twitter.com/TimHortons" />
+              <mj-social-element name="instagram" href="https://www.instagram.com/timhortons" />
+            </mj-social>

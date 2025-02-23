@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, sans-serif" />
+      <mj-text color="#4e4e4e" font-size="17px" line-height="23px" />
+      <mj-button background-color="#005450" color="#ffffff" font-size="17px" padding="15px 20px" border-radius="30px" font-weight="bold" />
+    </mj-attributes>
+    <mj-font href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" name="Roboto" />
+  </mj-head>
+
+  <mj-body background-color="#EDF0F3">
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://amho.ca/wp-content/uploads/2023/10/Camh_logo_purple.png" alt="Canadian Addiction and Mental Health Association" width="200px" />
+        <mj-text align="center" font-size="24px" color="#005450" font-weight="bold">
+          CAMH Newsletter - Mental Health and Addiction Support
+        </mj-text>
+        <mj-divider border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#4e4e4e" font-size="18px" font-weight="bold">
+          Hello John Doe,
+        </mj-text>
+        <mj-text color="#4e4e4e" font-size="16px">
+          We hope you're doing well. As part of our commitment to supporting your mental health and well-being, we wanted to provide you with the latest updates, resources, and events from CAMH.
+        </mj-text>
+        <mj-divider border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#005450" font-size="20px" font-weight="bold">
+          Featured Program: Mental Health Services at CAMH
+        </mj-text>
+        <mj-text color="#4e4e4e" font-size="16px">
+          At CAMH, we offer a variety of services aimed at improving mental health and helping individuals struggling with addiction. Our team of experts provides evidence-based treatment tailored to your unique needs. We also offer a safe, judgment-free space to talk about your experiences and create a plan to help you thrive.
+        </mj-text>
+        <mj-button href="https://www.camh.ca/en/treatment-care-and-services" align="center">
+          Learn More About Our Services
+        </mj-button>
+        <mj-divider border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#005450" font-size="20px" font-weight="bold">
+          Upcoming Events and Support Groups
+        </mj-text>
+        <mj-text color="#4e4e4e" font-size="16px">
+          Join our upcoming events to learn more about mental health, addiction recovery, and community support:
+        </mj-text>
+        <mj-list>
+          <mj-text color="#4e4e4e" font-size="16px">• Mental Health First Aid Course – March 15, 2025</mj-text>
+          <mj-text color="#4e4e4e" font-size="16px">• Online Support Group for Families – March 20, 2025</mj-text>
+          <mj-text color="#4e4e4e" font-size="16px">• Depression Awareness Webinar – March 25, 2025</mj-text>
+        </mj-list>
+        <mj-button href="https://www.camh.ca/en/events" align="center">
+          View All Events
+        </mj-button>
+        <mj-divider border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#005450" font-size="20px" font-weight="bold">
+          Resources to Support Your Journey
+        </mj-text>
+        <mj-text color="#4e4e4e" font-size="16px">
+          We have curated several resources to help you on your mental health and addiction recovery journey. These include informative articles, video series, self-help tools, and more. We encourage you to explore these resources to learn more about coping strategies, mindfulness practices, and seeking professional help when needed.
+        </mj-text>
+        <mj-button href="https://www.camh.ca/en/mental-health-and-addiction-resources" align="center">
+          Explore Resources
+        </mj-button>
+        <mj-divider border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#4e4e4e" font-size="16px">
+          If you have any questions or need support, please don't hesitate to reach out to us at any time. Your well-being is our priority, and we are here to help you every step of the way.
+        </mj-text>
+        <mj-text color="#4e4e4e" font-size="16px">
+          Best regards,
+          <br />
+          The CAMH Team
+        </mj-text>
+        <mj-divider border-color="#cccccc" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F8F8F8">
+      <mj-column>
+        <mj-text color="#949494" font-size="14px" align="center">
+          You are receiving this email because you signed up for CAMH updates. If you no longer wish to receive our emails, please <a href="https://www.camh.ca/en/unsubscribe" style="color:#005450;">unsubscribe here</a>.
+        </mj-text>
+        <mj-text color="#949494" font-size="14px" align="center">
+          Canadian Addiction and Mental Health Association | 1001 Queen St. W, Toronto, ON M6J 1H4
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

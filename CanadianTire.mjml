@@ -1,0 +1,114 @@
+<mjml>
+  <mj-head>
+    <mj-title>Transaction Confirmation - Canadian Tire</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      .button {
+        padding: 12px 25px;
+        border-radius: 30px;
+        font-weight: bold;
+        font-size: 14px;
+        text-decoration: none;
+      }
+      .btn-green {
+        background-color: #2e8b57;
+        color: white;
+      }
+      .btn-blue {
+        background-color: #0061a8;
+        color: white;
+      }
+      .footer-link {
+        color: #0061a8;
+        text-decoration: none;
+      }
+      .order-item-img {
+        max-width: 300px;
+        display: block;
+        margin: 0 auto;
+      }
+      .order-details {
+        text-align: center;
+        font-size: 14px;
+        color: #555;
+        margin-top: 10px;
+      }
+      .order-details strong {
+        color: #2e8b57;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#005b3d" padding="30px 0">
+      <mj-column>
+        <mj-image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Canadian_Tire_logo_2022_horizontal.svg/640px-Canadian_Tire_logo_2022_horizontal.svg.png" alt="Canadian Tire Logo" width="250px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="20px 0 40px 0">
+      <mj-column>
+        <mj-text font-size="20px" color="#333" font-weight="bold">Transaction Confirmed!</mj-text>
+        <mj-text font-size="16px" color="#555">Hi <strong>John Doe</strong>,</mj-text>
+        <mj-text font-size="14px" color="#555">
+          Thank you for your recent purchase at Canadian Tire! We're confirming that we've received your payment for your order.
+        </mj-text>
+
+        <mj-button href="https://www.canadiantire.ca/en/order-summary" class="button btn-blue">View Order Details</mj-button>
+
+        <mj-divider border-width="1px" border-color="#e0e0e0" />
+
+        <mj-text font-size="14px" color="#555">
+          <strong>Order Number:</strong> <span style="font-weight: bold; color: #2e8b57;">#CT123456789</span><br />
+          <strong>Payment Amount:</strong> <span style="font-weight: bold; color: #2e8b57;">$129.99</span><br />
+          <strong>Payment Date:</strong> <span style="font-weight: bold; color: #2e8b57;">February 23, 2025</span>
+        </mj-text>
+
+        <!-- Order Details Section -->
+        <mj-divider border-width="1px" border-color="#e0e0e0" />
+        <mj-text font-size="16px" color="#333" font-weight="bold">Order Details:</mj-text>
+
+        <mj-table>
+          <tr>
+            <td style="padding-right: 20px; text-align: center;">
+              <img src="https://media-www.canadiantire.ca/product/living/kitchen/kitchen-appliances/0430736/ninja-foodi-dual-zone-air-fryer-f08a5853-e141-49d2-a205-2b4c77ff8cac.png?imdensity=1&imwidth=1244&impolicy=gZoom" alt="Ninja Foodi 2-Basket Air Fryer" class="order-item-img" />
+            </td>
+          </tr>
+        </mj-table>
+
+        <!-- Product Details Under Image -->
+        <div class="order-details">
+          <p><strong>Ninja Foodi 2-Basket Air Fryer</strong></p>
+          <p>Ninja Foodi 2-Basket Air Fryer with 6 Cooking Functions, 8 Qt</p>
+          <p>Price: <strong>$129.99</strong></p>
+          <p>Quantity: <strong>1</strong></p>
+        </div>
+
+        <mj-button href="https://www.canadiantire.ca/en/orders" class="button btn-green">Track Your Order</mj-button>
+
+        <mj-divider border-width="1px" border-color="#e0e0e0" />
+
+        <mj-text font-size="14px" color="#555">
+          If you have any questions or need assistance, please do not hesitate to contact us at <a href="mailto:customerservice@canadiantire.ca" class="footer-link">customerservice@canadiantire.ca</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f4f4" padding="30px 0">
+      <mj-column>
+        <mj-text font-size="12px" color="#777">
+          <p>
+            © 2025 Canadian Tire Corporation, Limited. All Rights Reserved. <br />
+            This email was sent to you because you made a purchase with Canadian Tire. <br />
+            To manage your email preferences or unsubscribe, visit your <a href="https://www.canadiantire.ca/en/email-preferences" class="footer-link">Email Preferences</a>.
+          </p>
+          <p>
+            Canadian Tire, 2180 Yonge Street, Toronto, ON M4P 2V8
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
