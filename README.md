@@ -1,6 +1,6 @@
 # EmailMarketing
 
-This repository showcases various email marketing campaigns developed for different clients. Below are some examples of the projects I've worked on:
+This repository showcases various email marketing campaigns I've uploaded to showcase MJML Emails i can develop:
 
 ## CAMH Newsletter
 ![CAMH Newsletter](./Assets/camh.gif)
