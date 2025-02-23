@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+    <mj-title>Tim Hortons - We Value Your Feedback</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-text font-size="16px" color="#555" />
+      <mj-button background-color="#e60012" color="#ffffff" font-size="16px" padding="1px 2px" border-radius="1px" />
+    </mj-attributes>
+    <mj-style>
+      .footer-text { font-size: 12px; color: #707070; text-align: center; line-height: 20px; padding-top: 20px; }
+      .social-icons img { width: 32px; height: 32px; margin: 0 10px; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <!-- Container for the email -->
+    <mj-section>
+      <mj-column>
+        <!-- Header Section with Logo -->
+        <mj-image src="https://1000logos.net/wp-content/uploads/2023/04/Tim-Hortons-logo.jpg" alt="Tim Hortons Logo" width="350px" align="center" />
+        <mj-text align="center" font-size="24px" font-weight="bold" color="#000000" padding-top="2px">
+          We Value Your Feedback!
+        </mj-text>
+        <mj-text align="center" font-size="18px" color="#555555" padding-top="1px">
+          Help us improve your Tim Hortons experience by completing a short survey.
+        </mj-text>
+
+        <!-- Survey Invitation Section with Image -->
+        <mj-section padding-top="10px">
+          <mj-column>
+            <mj-image src="https://telltims-canada.com/wp-content/uploads/Tim-Hortons-Canada-Survey.webp" alt="Tim Hortons Survey" width="350px" />
+            <mj-text align="center" font-size="18px" color="#333" padding-top="15px">
+              Share your thoughts and get a chance to win exciting rewards!
+            </mj-text>
+            <mj-button href="https://www.timhortons.ca/survey" align="center">
+              Start Survey Now
+            </mj-button>
+            <mj-text align="center" font-size="16px" color="#555" padding-top="20px">
+              Fun Fact: Did you know your feedback can earn you points or cashback? These rewards are available on your receipt, so keep an eye out!
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Survey Benefits Section -->
+<mj-section padding-top="0px">
+  <mj-column>
+    <mj-text align="center" font-size="18px" font-weight="bold" color="#000000">
+      Why Participate in Our Survey?
+    </mj-text>
+    <mj-text align="center" font-size="16px" color="#555555" padding-top="10px">
+      <ul>
+        <li>
+          <mj-text align="center" font-size="12px" color="#5555FF">
+            Your feedback helps us improve the Tim Hortons experience.
+          </mj-text>
+        </li>
+        <li>
+          <mj-text align="center" font-size="12px" color="#5555FF">
+            Chance to win Tim Hortons gift cards!
+          </mj-text>
+        </li>
+        <li>
+          <mj-text align="center" font-size="12px" color="#5555FF">
+            Exclusive offers for survey participants.
+          </mj-text>
+        </li>
+      </ul>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+        <!-- CTA to Start Survey -->
+        <mj-section padding-top="3px">
+          <mj-column>
+            <mj-button href="https://www.timhortons.ca/survey" align="center" background-color="#e60012">
+              Start Your Survey Now
+            </mj-button>
+          </mj-column>
+        </mj-section>
+
+        <!-- Terms and Conditions Section -->
+        <mj-section padding-top="2px">
+          <mj-column>
+            <mj-text align="center" font-size="14px" color="#555">
+              <a href="https://www.timhortons.ca/terms-and-conditions" style="color: #555;">Terms and Conditions</a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Footer Section with Social Icons -->
+        <mj-section padding-top="4px">
+          <mj-column>
+            <mj-text align="center" color="#555555" font-size="14px">
+              Stay connected with us and follow us on social media for more updates:
+            </mj-text>
+            <mj-social align="center" color="#ffffff" font-size="20px" mode="horizontal">
+              <mj-social-element name="facebook" href="https://www.facebook.com/TimHortons" />
+              <mj-social-element name="twitter" href="https://twitter.com/TimHortons" />
+              <mj-social-element name="instagram" href="https://www.instagram.com/timhortons" />
+            </mj-social>
+          </mj-column>
+        </mj-section>
+
+        <!-- Footer Legal Section -->
+        <mj-section>
+          <mj-column>
+            <mj-text class="footer-text">
+              Some restrictions apply. Terms and conditions are available on our website. <br />
+              This email was sent to [recipient's email]. <a href="https://www.timhortons.ca/unsubscribe">Unsubscribe</a>.
+            </mj-text>
+            <mj-text class="footer-text" align="center">
+              <a href="https://www.timhortons.ca/privacy-policy" style="color: #707070;">Privacy Policy</a> | 
+              <a href="https://www.timhortons.ca/terms-and-conditions" style="color: #707070;">Terms and Conditions</a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
